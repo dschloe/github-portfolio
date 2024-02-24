@@ -48,3 +48,12 @@
 # License 
 - [라이센스에 관련한 간단한 설명](LICENSE)
 
+# 테스트 방법
+- 다음과 같이 하면 된다. 
+```
+git clone https://github.com/dschloe/github-portfolio.git
+virtualenv venv
+pip install -r requirements.txt
+source venv/Scripts/activate
+streamlit run app.py
+```
