@@ -21,3 +21,29 @@
 # 주요 라이브러리 버전
 - [requirements.txt](requirements.txt) 파일 참조
 
+# 데모페이지
+- Streamlit에서 구현한 Demo는 다음과 같습니다. 
+    + https://app-api-qkxzk2zdlacnuwxcqwxyyq.streamlit.app/
+
+# 주요 기능
+- 본 프로젝트에서 자체 개발 및 활용한 주요 메서드는 다음과 같습니다. 
+| Functions | Location | Description |
+|---|---|---|
+| main | app.py  | for deploy |
+| load_data | data_collect.py | for collecting data from API |
+
+## main() 함수에 대한 구체적인 설명
+- 00 함수는 ~~를 하는 것이다. 
+- 예: 결과 이미지가 있으면 img 캡쳐 해주는 것이 좋음
+![](imgs/img1.png)
+
+# 발표자료 PDF 
+- 공모전에서 입상한 발표자료 PDF는 아래와 같습니다. 
+    + 링크 : [발표자료](docs/portfolio.pdf)
+
+# Release Notes
+- 개발 릴리스 노트는 'Releases' 클릭하여 주시기를 바랍니다. 
+
+# License 
+- [라이센스에 관련한 간단한 설명](LICENSE)
+
